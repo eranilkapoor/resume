@@ -2,7 +2,7 @@
 
 **Delivery Project Lead | Technical Architect | Full-Stack & Cloud Expert**
 **Location:** New Delhi, India
-**Email:** [Your Email] | **Phone:** [Your Phone] | **LinkedIn:** [Your LinkedIn URL]
+**Email:** [kapoor.anil@gmail.com] | **Phone:** [+919911**32**] | **LinkedIn:** [https://www.linkedin.com/in/eranilkapoor]
 
 ---
 
