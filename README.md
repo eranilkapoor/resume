@@ -1,5 +1,3 @@
----
-
 # **Anil Kapoor**
 
 **Delivery Project Lead | Technical Architect | Full-Stack & Cloud Expert**
