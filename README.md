@@ -2,7 +2,7 @@
 
 **Delivery Project Lead | Technical Architect | Full-Stack & Cloud Expert**
 **Location:** New Delhi, India
-**Email:** [kapoor.anil@gmail.com] | **Phone:** [+919911**32**] | **LinkedIn:** [https://www.linkedin.com/in/eranilkapoor]
+**Email:** kapoor.anil@gmail.com | **Phone:** +919911****35 | **LinkedIn:** https://www.linkedin.com/in/eranilkapoor
 
 ---
 
@@ -23,17 +23,17 @@ Currently serving as **Delivery Project Lead (Node.js Backend) at Mphasis Limite
 
 **Primary Skills:**
 
-* Backend Development & Architecture: Node.js, Express.js, Socket.IO, Microservices, Kafka, JSON
-* Databases & Caching: MySQL, MongoDB, Redis
-* Frontend & Full-Stack Integration: JavaScript, TypeScript
-* Cloud & Infrastructure: AWS, Payment Gateway Integrations
+* **Backend Development & Architecture:** Node.js, Express.js, Socket.IO, Microservices, Kafka, JSON
+* **Databases & Caching:** MySQL, MongoDB, Redis
+* **Frontend & Full-Stack** Integration: JavaScript, TypeScript
+* **Cloud & Infrastructure:** AWS, Payment Gateway Integrations
 
 **Secondary Skills:**
 
-* Programming & AI/ML: Python, AI/ML fundamentals
-* Frontend Frameworks & Web Technologies: React, Angular, Vue, HTML5, CSS3, jQuery
-* Other Frameworks & Platforms: Hapi.js, Azure Cloud, GCP, Digital Ocean, Heroku, GoDaddy
-* Third-Party Integrations: Facebook, LinkedIn, Twitter, Chargebee, Salesforce, HubSpot
+* **Programming & AI/ML:** Python, AI/ML fundamentals
+* **Frontend Frameworks & Web Technologies:** React, Angular, Vue, HTML5, CSS3, jQuery
+* **Other Frameworks & Platforms:** Hapi.js, Azure Cloud, GCP, Digital Ocean, Heroku, GoDaddy
+* **Third-Party Integrations:** Facebook, LinkedIn, Twitter, Chargebee, Salesforce, HubSpot
 
 **Business Domains:** AI/ML Chatbots, Gaming, SaaS, E-Learning, E-commerce, CRM, Social Platforms, Booking Portals, Travel & Hospitality
 
@@ -187,7 +187,7 @@ Currently serving as **Delivery Project Lead (Node.js Backend) at Mphasis Limite
 * **Languages Known:** English, Hindi
 * **Hobbies & Interests:** Traveling, Listening to Music, Surfing, Reading Fiction, Online Gaming
 
-**Notice Period:** 90 days (Mphasis Limited)
+**Notice Period:** 90 days (**Mphasis Limited**)
 
 **Declaration:**
 I hereby declare that the information provided above is true and correct to the best of my knowledge and belief.
