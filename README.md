@@ -8,9 +8,9 @@
 
 ## **Professional Summary**
 
-Accomplished **Delivery Project Lead & Technical Architect** with 14+ years of hands-on experience in **planning, designing, developing, and deploying scalable n-tier applications** across diverse domains. Proven ability to lead high-performing teams, manage complex projects, and deliver innovative software solutions aligned with business goals. Recognized for strong communication, interpersonal, and mentoring skills with the ability to **influence, motivate, and guide teams** under challenging environments.
+Accomplished **Delivery Project Lead & Technical Architect** with 15+ years of hands-on experience in **planning, designing, developing, and deploying scalable n-tier applications** across diverse domains. Proven ability to lead high-performing teams, manage complex projects, and deliver innovative software solutions aligned with business goals. Recognized for strong communication, interpersonal, and mentoring skills with the ability to **influence, motivate, and guide teams** under challenging environments.
 
-Currently serving as **Delivery Project Lead (Node.js Backend) at Mphasis Limited**, driving end-to-end project execution, stakeholder management, and solution delivery.
+Currently serving as **Delivery Project Lead (MEAN/MERN) at Mphasis Limited**, driving end-to-end project execution, stakeholder management, and solution delivery.
 
 **Education:**
 
@@ -23,16 +23,16 @@ Currently serving as **Delivery Project Lead (Node.js Backend) at Mphasis Limite
 
 **Primary Skills:**
 
-* **Backend Development & Architecture:** Node.js, Express.js, Socket.IO, Microservices, Kafka, JSON
+* **Backend Development & Architecture:** Node.js, Express.js, Nest.js, Socket.IO, Microservices, Kafka, JSON
 * **Databases & Caching:** MySQL, MongoDB, Redis
 * **Frontend & Full-Stack** Integration: JavaScript, TypeScript
-* **Cloud & Infrastructure:** AWS, Payment Gateway Integrations
+* **Cloud & Infrastructure:** AWS, Azure Cloud, Payment Gateway Integrations
 
 **Secondary Skills:**
 
 * **Programming & AI/ML:** Python, AI/ML fundamentals
-* **Frontend Frameworks & Web Technologies:** React, Angular, Vue, HTML5, CSS3, jQuery
-* **Other Frameworks & Platforms:** Hapi.js, Azure Cloud, GCP, Digital Ocean, Heroku, GoDaddy
+* **Frontend Frameworks & Web Technologies:** React, Next.js, Angular, Vue, HTML5, CSS3, jQuery
+* **Other Frameworks & Platforms:** Hapi.js, GCP, Digital Ocean, Heroku, GoDaddy
 * **Third-Party Integrations:** Facebook, LinkedIn, Twitter, Chargebee, Salesforce, HubSpot
 
 **Business Domains:** AI/ML Chatbots, Gaming, SaaS, E-Learning, E-commerce, CRM, Social Platforms, Booking Portals, Travel & Hospitality
@@ -43,8 +43,10 @@ Currently serving as **Delivery Project Lead (Node.js Backend) at Mphasis Limite
 
 ## **Certifications**
 
-1. **Project Management Professional (PMP)® – Certification Training** | Simplilearn
+1. **Project Management Professional (PMP)® – PMI Certified PMP Certification** | PMI
 2. **Azure Cloud Development & Deployment (Fundamentals)** | Mphasis Talent Next (In-house Training)
+3. **Docker (DCA) & Kubernetes (CKA) (Fundamentals)** | Mphasis Talent Next (In-house Training)
+4. **AI , CoPilot, & Cloude (Fundamental)** | Mphasis Talent Next (In-house Training)
 
 **Kore.ai Platform Certifications:**
 
@@ -59,7 +61,7 @@ Currently serving as **Delivery Project Lead (Node.js Backend) at Mphasis Limite
 ## **Professional Experience**
 
 **Mphasis Ltd, Hyderabad (On-Site)**
-**Delivery Project Lead (Node.js)** | Nov 2023 – Present
+**Delivery Project Lead (MEAN/MERN)** | Nov 2023 – Present
 
 * Lead frontend architecture and chatbot module development.
 * Prepare TDDs, ERDs, and oversee code reviews.
