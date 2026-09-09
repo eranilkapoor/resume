@@ -14,13 +14,13 @@ Technical Project Manager, Conversational AI Delivery Lead, and Node.js Technica
 
 Currently working with Mphasis as a Technical Architect / Delivery Project Lead, supporting HP.com EMEA country migration and enterprise conversational AI delivery. Experienced in React.js and Angular frontend migration architecture, Node.js backend design, technical documentation, sprint planning, code reviews, deployment coordination, production support, and cross-functional delivery.
 
-Strong background in full-stack engineering, frontend/backend architecture, Agile delivery, and team leadership. Experienced in managing engineering PODs of up to 55 members, building scalable Node.js/PHP platforms, integrating payments and real-time systems, and deploying applications across AWS, Azure, Kubernetes, and CI/CD environments.
+Strong background in full-stack engineering, frontend/backend architecture, Agile delivery, and team leadership. Experienced in managing engineering PODs of up to 15 members, building scalable Node.js/PHP platforms, integrating payments and real-time systems, and deploying applications across AWS, Azure, Kubernetes, and CI/CD environments.
 
 ### Career Highlights
 
 * Technical Architect for HP.com EMEA country migration under Mphasis, focused on React.js and Angular frontend migration with Node.js backend support.
 * Leading delivery of live enterprise conversational AI platforms for Mashreq UAE Bank and SABIC using Kore.ai, Node.js, Azure, and Kubernetes.
-* Scaled and led a 55-member POD at Hubilo for an enterprise virtual-event-management SaaS platform.
+* Scaled and led a 15-member POD at Hubilo for an enterprise virtual-event-management SaaS platform.
 * Built and supported real-money Rummy, Poker, Casino, and Ceme gaming platforms with live payment flows and AWS-based infrastructure.
 * MBA in Project Management and PMP-certified delivery professional with 9+ years of team leadership, POD ownership, Agile planning, stakeholder coordination, and production delivery experience.
 * Hands-on technical leader with deep expertise in Node.js, JavaScript, TypeScript, PHP, MySQL, MongoDB, Redis, React.js, Vue.js, Kafka, microservices, and cloud deployment.
@@ -120,7 +120,7 @@ Conversational AI, banking, manufacturing, SaaS, real-money gaming, e-commerce, 
 
 **Senior Software Engineer / SDE II / POD Lead** | Oct 2020 - Mar 2023 | Remote
 
-* Led a 55-member POD responsible for pricing and core modules of Hubilo's enterprise virtual-event-management SaaS platform.
+* Led a 15-member POD responsible for pricing and core modules of Hubilo's enterprise virtual-event-management SaaS platform.
 * Delivered backend and full-stack features using Node.js, PHP, MySQL, Redis, MongoDB, Kafka, React.js, microservices, and AWS.
 * Managed sprint planning, team coordination, client-facing delivery priorities, code reviews, and release execution.
 * Contributed concurrently as a full-stack developer for real-money casino platforms using Node.js, Vue.js, PHP, MySQL, Redis, MongoDB, and AWS.
@@ -242,7 +242,7 @@ casinopurple.com, casinoeagles.com, cashicherry.com, zeslots.com | Jan 2021 - Ma
 [hubilo.com](https://www.hubilo.com) | Oct 2020 - Mar 2023
 
 **Role:** POD Lead - Node.js, PHP & Pricing  
-**Team Size:** 55  
+**Team Size:** 15  
 **Technologies:** Node.js, PHP, MySQL, Redis, MongoDB, Kafka, microservices, React.js, AWS
 
 * Led POD delivery for pricing and core SaaS modules used by enterprise event-management customers.
