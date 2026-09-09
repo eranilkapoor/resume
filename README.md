@@ -35,7 +35,7 @@ Kore.ai XO Platform, Kore.ai BankAssist, Kore.ai SmartAssist, Kore.ai SearchAssi
 
 ### Backend & Architecture
 
-Node.js, TypeScript, JavaScript, Express.js, Hapi.js, PHP, Laravel, REST APIs, microservices, Kafka, Socket.IO, Redis, payment integrations, scalable backend systems, performance monitoring, code review
+Node.js, TypeScript, JavaScript, Express.js, NestJS, Hapi.js, PHP, Laravel, REST APIs, microservices, Kafka, Socket.IO, Redis, payment integrations, scalable backend systems, performance monitoring, code review
 
 ### Frontend
 
@@ -67,27 +67,28 @@ Conversational AI, banking, manufacturing, SaaS, real-money gaming, e-commerce, 
 | JavaScript | Language | Expert | 15+ years | Current |
 | Agile Delivery / POD Leadership | Leadership | Expert | 9+ years | Current |
 | Technical Project Management | Leadership | Expert | 9+ years | Current |
-| TypeScript | Language | Advanced | 5+ years | Current |
+| TypeScript | Language | Advanced | 8+ years | Current |
 | Kore.ai XO Platform | Conversational AI | Advanced | 3+ years | Current |
 | Kore.ai BankAssist / SmartAssist / SearchAssist | Conversational AI | Advanced | 3+ years | Current |
-| React.js | Frontend | Advanced | 6+ years | Current |
+| React.js | Frontend | Advanced | 8+ years | Current |
 | PHP | Backend | Advanced | 12+ years | 2023 |
 | MySQL | Database | Advanced | 12+ years | 2023 |
 | MongoDB | Database | Advanced | 8+ years | 2023 |
-| Express.js | Framework | Advanced | 7+ years | 2023 |
-| AWS | Cloud | Advanced | 6+ years | 2023 |
+| Express.js | Framework | Advanced | 10+ years | 2023 |
+| AWS | Cloud | Advanced | 8+ years | 2023 |
 | HTML5 / CSS3 / jQuery | Frontend | Advanced | 12+ years | 2023 |
 | Project Management | Leadership | Advanced | 9+ years | Current |
 | Azure | Cloud | Intermediate | 3+ years | Current |
 | Angular | Frontend | Advanced | 4+ years | Current |
 | Kafka | Messaging | Intermediate | 3+ years | 2023 |
 | Microservices | Architecture | Intermediate | 3+ years | 2023 |
-| Redis | Cache | Intermediate | 4+ years | 2023 |
-| Socket.IO | Real-Time | Intermediate | 5+ years | 2023 |
+| Redis | Cache | Advanced | 10+ years | 2023 |
+| Socket.IO | Real-Time | Advanced | 10+ years | 2023 |
 | Jenkins / CI-CD | DevOps | Intermediate | 8+ years | 2023 |
 | Vue.js | Frontend | Intermediate | 2+ years | 2023 |
 | Kubernetes | DevOps | Working Knowledge | 3+ years | Current |
-| Docker | DevOps | Working Knowledge | 2+ years | 2023 |
+| Docker | DevOps | Intermediate | 5+ years | 2023 |
+| NestJS | Framework | Intermediate | 2+ years | Current |
 | Google Cloud Platform | Cloud | Working Knowledge | 1+ year | 2018 |
 | DynamoDB | Database | Working Knowledge | <1 year | 2023 |
 | Hapi.js | Framework | Working Knowledge | 1+ year | 2018 |
