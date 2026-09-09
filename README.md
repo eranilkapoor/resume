@@ -68,26 +68,26 @@ Conversational AI, banking, manufacturing, SaaS, real-money gaming, e-commerce, 
 | Agile Delivery / POD Leadership | Leadership | Expert | 9+ years | Current |
 | Technical Project Management | Leadership | Expert | 9+ years | Current |
 | TypeScript | Language | Advanced | 8+ years | Current |
-| Kore.ai XO Platform | Conversational AI | Advanced | 3+ years | Current |
-| Kore.ai BankAssist / SmartAssist / SearchAssist | Conversational AI | Advanced | 3+ years | Current |
+| Kore.ai XO Platform | Conversational AI | Advanced | 2+ years | 2025 |
+| Kore.ai BankAssist / SmartAssist / SearchAssist | Conversational AI | Advanced | 2+ years | 2025 |
 | React.js | Frontend | Advanced | 8+ years | Current |
 | PHP | Backend | Advanced | 12+ years | 2023 |
-| MySQL | Database | Advanced | 12+ years | 2023 |
-| MongoDB | Database | Advanced | 8+ years | 2023 |
-| Express.js | Framework | Advanced | 10+ years | 2023 |
-| AWS | Cloud | Advanced | 8+ years | 2023 |
+| MySQL | Database | Advanced | 12+ years | Current |
+| MongoDB | Database | Advanced | 8+ years | Current |
+| Express.js | Framework | Advanced | 10+ years | Current |
+| AWS | Cloud | Advanced | 8+ years | Current |
 | HTML5 / CSS3 / jQuery | Frontend | Advanced | 12+ years | 2023 |
 | Project Management | Leadership | Advanced | 9+ years | Current |
 | Azure | Cloud | Intermediate | 3+ years | Current |
-| Angular | Frontend | Advanced | 4+ years | Current |
+| Angular | Frontend | Advanced | 8+ years | Current |
 | Kafka | Messaging | Intermediate | 3+ years | 2023 |
 | Microservices | Architecture | Intermediate | 3+ years | 2023 |
-| Redis | Cache | Advanced | 10+ years | 2023 |
-| Socket.IO | Real-Time | Advanced | 10+ years | 2023 |
-| Jenkins / CI-CD | DevOps | Intermediate | 8+ years | 2023 |
+| Redis | Cache | Advanced | 10+ years | Current |
+| Socket.IO | Real-Time | Advanced | 10+ years | Current |
+| Jenkins / CI-CD | DevOps | Intermediate | 8+ years | Current |
 | Vue.js | Frontend | Intermediate | 2+ years | 2023 |
 | Kubernetes | DevOps | Working Knowledge | 3+ years | Current |
-| Docker | DevOps | Intermediate | 5+ years | 2023 |
+| Docker | DevOps | Intermediate | 5+ years | Current |
 | NestJS | Framework | Intermediate | 2+ years | Current |
 | Google Cloud Platform | Cloud | Working Knowledge | 1+ year | 2018 |
 | DynamoDB | Database | Working Knowledge | <1 year | 2023 |
