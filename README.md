@@ -24,7 +24,7 @@ Delivery lead and technical architect specializing in **enterprise conversationa
 
 ## Core Skills
 
-*Ratings, years, and last-used dates below are my estimate from your project and employment history — review the 1–5 ratings and adjust to match your own confidence before using this on applications, since that number is inherently self-assessed.*
+*Ratings, years, and last-used dates below are my estimate from my project and employment history — since that number is inherently self-assessed.*
 
 | Skill | Category | Rating (/5) | Years of Experience | Last Used |
 |---|---|:---:|:---:|---|
